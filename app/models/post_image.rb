@@ -11,7 +11,7 @@ class PostImage < ApplicationRecord
     end
       image
   end
-  
+
 end
 
 
